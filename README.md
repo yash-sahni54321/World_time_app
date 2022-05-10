@@ -1,6 +1,8 @@
-# world_time_app
+# World_time_app
 
-A new Flutter application.
+A Flutter app that help you see curent time in different time zones all over the world.
+![photo_2022-05-11_01-14-45](https://user-images.githubusercontent.com/67969545/167709746-014de888-4871-4a20-8537-c1cad05abc6f.jpg)
+![photo_2022-05-11_01-14-56](https://user-images.githubusercontent.com/67969545/167709758-a81737dd-f86c-4fc6-82df-b5f3a74c127c.jpg)
 
 ## Getting Started
 
