@@ -1,7 +1,8 @@
 # World_time_app
 
 A Flutter app that help you see curent time of cities having different time zone.
-![photo_2022-05-11_01-14-45]([https://user-images.githubusercontent.com/67969545/167710226-50d9bf42-19e4-4d89-ad5f-33277f67909c.png](https://www.canva.com/design/DAFCd8gue70/D3UM2MjawfAtpXiFc7jIMQ/view?utm_content=DAFCd8gue70&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel))
+
+![Muted Minimalist Portfolio Photo Book (1)](https://user-images.githubusercontent.com/67969545/171672345-b6e532ed-b344-4022-a2a8-56a52f911bf6.png)
 
 
 ## Getting Started
